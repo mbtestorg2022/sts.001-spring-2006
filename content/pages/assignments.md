@@ -14,8 +14,8 @@ Book Review
 Each student must write a review of a book selected from a list of acceptable titles.
 
 *   List of Acceptable Books for Review ([PDF]({{< baseurl >}}/resources/reviewbooks_ocw))
-*   Some Guidelines on Preparing a Critical Book Review (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/bookreview_guide))
-*   Example of a Book Review (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/bookreviewsample)) (Courtesy of Jamie Pietruska. Used with permission.)
+*   Some Guidelines on Preparing a Critical Book Review ([PDF]({{< baseurl >}}/resources/bookreview_guide))
+*   Example of a Book Review ([PDF]({{< baseurl >}}/resources/bookreviewsample)) (Courtesy of Jamie Pietruska. Used with permission.)
 
 Essay
 -----

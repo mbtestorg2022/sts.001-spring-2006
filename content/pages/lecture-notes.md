@@ -42,7 +42,7 @@ Introduction
 What is Technology?
 {{< tdclose >}}
 {{< tdopen >}}
-What is Technology? (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/02_13))
+What is Technology? ([PDF]({{< baseurl >}}/resources/02_13))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +54,7 @@ What is Technology? (![This resource may not render correctly in a screen reader
 Technologies of Colonization and Conquest
 {{< tdclose >}}
 {{< tdopen >}}
-Technology in Colonial America (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/02_15))
+Technology in Colonial America ([PDF]({{< baseurl >}}/resources/02_15))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,9 +66,9 @@ Technology in Colonial America (![This resource may not render correctly in a sc
 Crafts and Craftsmanship in Early America
 {{< tdclose >}}
 {{< tdopen >}}
-Crafts and Craftsmanship in Early America (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/02_21))  
+Crafts and Craftsmanship in Early America ([PDF]({{< baseurl >}}/resources/02_21))  
   
-Discussion of Film _The Gunsmith of Williamsburg_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/02_21_gunsmith))
+Discussion of Film _The Gunsmith of Williamsburg_ ([PDF]({{< baseurl >}}/resources/02_21_gunsmith))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -204,7 +204,7 @@ Human Machines? Frederick W. Taylor and the Rise of Scientific Management
 Automobility and Mass Production
 {{< tdclose >}}
 {{< tdopen >}}
-"Henry Ford and the Advent of Mass Production" (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/04_05))
+"Henry Ford and the Advent of Mass Production" ([PDF]({{< baseurl >}}/resources/04_05))
 {{< tdclose >}}
 
 {{< trclose >}}
